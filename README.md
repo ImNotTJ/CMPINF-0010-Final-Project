@@ -6,7 +6,7 @@ The goal of the code is to determine the best neighborhood in or around Pittsbur
 
 Final Group 21
 
-TJ
+TJ - tjs268@pitt.edu
 
 Jesse - jgh60@pitt.edu
 
@@ -16,7 +16,7 @@ Pranal - prs353@pitt.edu
 
 Data sets:
 
-1. High rent
-2. High housing cost
-3. Residents have a sustainable income
-4. Houses are mortgage-free / paid off
+1. Contract Rent - https://data.wprdc.org/dataset/5b18c198-474c-4723-b735-cc5220ad43cc/resource/dbf449e2-e8a1-41ce-941e-3b95041fd00c/download/contract-rent.csv
+2. Housing Unit Value - https://data.wprdc.org/dataset/5b18c198-474c-4723-b735-cc5220ad43cc/resource/13982f58-e618-400c-8f69-6a32dbd7c68f/download/value.csv
+3. Wage/Salary Income - https://data.wprdc.org/dataset/5b18c198-474c-4723-b735-cc5220ad43cc/resource/d159c6b3-f70a-439b-bd2b-0cb8735d76d4/download/wage-or-salary-income-in-the-past-12-months-for-households.csv
+4. Mortgage Status - https://data.wprdc.org/dataset/5b18c198-474c-4723-b735-cc5220ad43cc/resource/c93e8aca-7772-4775-bcd4-da10354cd1cc/download/mortgage-status.csv
