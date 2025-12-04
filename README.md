@@ -5,7 +5,7 @@ Group Members:
 TJ
 Jesse -jgh60@pitt.edu
 Colby
-Pranal
+Pranal - prs353@pitt.edu
 
 Metric:
 
