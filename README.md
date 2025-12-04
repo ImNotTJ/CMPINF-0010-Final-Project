@@ -3,7 +3,7 @@
 Group Members:
 
 TJ
-Jesse
+Jesse -jgh60@pitt.edu
 Colby
 Pranal
 
