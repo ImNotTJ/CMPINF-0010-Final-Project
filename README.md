@@ -9,13 +9,13 @@ The goal of the code is to determine the best neighborhood in or around Pittsbur
 
 Final Group 21
 
-TJ - tjs268@pitt.edu
+TJ - tjs268@pitt.edu (Housing Unit Value)
 
-Jesse - jgh60@pitt.edu
+Jesse - jgh60@pitt.edu (Contract Rent)
 
-Colby - cbw65@pitt.edu
+Colby - cbw65@pitt.edu (Wage/Salary Income)
 
-Pranal - prs353@pitt.edu
+Pranal - prs353@pitt.edu (Mortgage Status)
 
 Data sets:
 
